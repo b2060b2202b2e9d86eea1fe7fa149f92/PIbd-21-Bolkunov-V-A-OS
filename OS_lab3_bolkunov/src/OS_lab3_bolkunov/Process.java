@@ -67,6 +67,18 @@ public class Process
         disposed = true;
     }
 
+    //Вот этот метод ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+    public void printPagesInVirtualMemory()
+    {
+        for (int i =0; i< pages.length; i++)
+        {
+            if(!pages[i].isInPhysicalMemory())
+            {
+                System.out.println(pages[i].toString());
+            }
+        }
+    }
+
     @Override
     public String toString()
     {
