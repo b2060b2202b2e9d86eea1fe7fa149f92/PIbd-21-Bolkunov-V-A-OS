@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4f76cd6-8ba0-42f3-9f5f-7e57aa54de32" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jBFBA0fZBaSfuCXp8qOKVmT73Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Технологии программирования/javaGIT/PIbd-21-Bolkunov-V-A-Java/lab1_bolkunov_java" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Configuration" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="OS_lab5_bolkunov.Main" />
+      <module name="OS_lab5-bolkunov" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4f76cd6-8ba0-42f3-9f5f-7e57aa54de32" name="Default Changelist" comment="" />
+      <created>1603269439475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603269439475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603275629422">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="446" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.0.1856.1080@64.0.1856.1080" timestamp="1603275629422" />
+    <state x="797" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1603277570914">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="797" y="249" key="#com.intellij.ide.util.MemberChooser/64.0.1856.1080@64.0.1856.1080" timestamp="1603277570914" />
+    <state x="721" y="323" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1603275628478">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="721" y="323" key="#com.intellij.ide.util.TreeClassChooserDialog/64.0.1856.1080@64.0.1856.1080" timestamp="1603275628478" />
+    <state x="722" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603279318634">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="722" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/64.0.1856.1080@64.0.1856.1080" timestamp="1603279318634" />
+    <state x="772" y="294" key="FileChooserDialogImpl" timestamp="1603363831435">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="772" y="294" key="FileChooserDialogImpl/64.0.1856.1080@64.0.1856.1080" timestamp="1603363831435" />
+    <state width="1813" height="78" key="GridCell.Tab.0.bottom" timestamp="1603286858837">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="78" key="GridCell.Tab.0.bottom/64.0.1856.1080@64.0.1856.1080" timestamp="1603286858837" />
+    <state width="1813" height="78" key="GridCell.Tab.0.center" timestamp="1603286858837">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="78" key="GridCell.Tab.0.center/64.0.1856.1080@64.0.1856.1080" timestamp="1603286858837" />
+    <state width="1813" height="78" key="GridCell.Tab.0.left" timestamp="1603286858837">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="78" key="GridCell.Tab.0.left/64.0.1856.1080@64.0.1856.1080" timestamp="1603286858837" />
+    <state width="1813" height="78" key="GridCell.Tab.0.right" timestamp="1603286858837">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1813" height="78" key="GridCell.Tab.0.right/64.0.1856.1080@64.0.1856.1080" timestamp="1603286858837" />
+    <state x="687" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1603357945268">
+      <screen x="64" y="0" width="1856" height="1080" />
+    </state>
+    <state x="687" y="363" key="com.intellij.ide.util.TipDialog/64.0.1856.1080@64.0.1856.1080" timestamp="1603357945268" />
+  </component>
+</project>
