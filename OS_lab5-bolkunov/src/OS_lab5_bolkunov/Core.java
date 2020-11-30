@@ -35,8 +35,8 @@ public class Core
         for (int i = 0; i < count; i++)
         {
             Process proc;
-            if(i == ioThread1 || i == ioThread2) { proc = new Process(i,true); }
-            else { proc = new Process(i,false); }
+            if(i == ioThread1 || i == ioThread2) { proc = new Process(i,rnd.nextInt(3)+1); }
+            else { proc = new Process(i,0); }
             processes.add(proc);
             processesClone.add(proc.clone());
         }
